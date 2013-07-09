@@ -1,0 +1,5 @@
+C:\Sandbox\BankOCRKata\BankOCRKata\bin\Debug\BankOCRKata.dll
+C:\Sandbox\BankOCRKata\BankOCRKata\bin\Debug\BankOCRKata.pdb
+C:\Sandbox\BankOCRKata\BankOCRKata\obj\Debug\BankOCRKata.dll
+C:\Sandbox\BankOCRKata\BankOCRKata\obj\Debug\BankOCRKata.pdb
+C:\Sandbox\BankOCRKata\BankOCRKata\obj\Debug\BankOCRKata.csprojResolveAssemblyReference.cache
